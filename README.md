@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Counter-Strike 1.6 Server (Exe build: 19:52:19 Aug  3 2020 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC.
+Counter-Strike 1.6 Server (Exe build: 19:52:19 Nov  3 2025 8684), REHLDS, HLDS, AMDMXODX, REUNION, DPROTO, ECC, PODBot, YAPB.
 </p>
 
 <p align="center">
